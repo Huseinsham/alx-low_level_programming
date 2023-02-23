@@ -1,12 +1,11 @@
 #include "main.h"
 
 /**
- * main: this is the main function
+ * main - Entry point
  *
- * _putchar: print the alphabets
- *
- * Return: Always return 0
+ * Return: Always 0 (Success)
  */
+
 
 int main(void)
 {
@@ -19,5 +18,5 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-	 return (0);
+	return (0);
 }
